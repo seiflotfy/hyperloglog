@@ -1,4 +1,9 @@
-# HyperLogLog [![GoDoc](https://godoc.org/github.com/axiomhq/hyperloglog?status.svg)](https://godoc.org/github.com/axiomhq/hyperloglog) [![Go Report Card](https://goreportcard.com/badge/github.com/axiomhq/hyperloglog)](https://goreportcard.com/report/github.com/axiomhq/hyperloglog) ![cover.run go](https://cover.run/go/github.com/axiomhq/hyperloglog.svg)
+![Hyperloglog Logo](hyperloglog.png)
+
+---
+
+[![GoDoc](https://godoc.org/github.com/axiomhq/hyperloglog?status.svg)](https://godoc.org/github.com/axiomhq/hyperloglog) [![Go Report Card](https://goreportcard.com/badge/github.com/axiomhq/hyperloglog)](https://goreportcard.com/report/github.com/axiomhq/hyperloglog) ![cover.run go](https://cover.run/go/github.com/axiomhq/hyperloglog.svg)
+
 An improved version of [HyperLogLog](https://en.wikipedia.org/wiki/HyperLogLog) for the count-distinct problem, approximating the number of distinct elements in a multiset **using 20-50% less space** than other usual HyperLogLog implementations.
 
 This work is based on ["Better with fewer bits: Improving the performance of cardinality estimation of large data streams - Qingjun Xiao, You Zhou, Shigang Chen"](http://cse.seu.edu.cn/PersonalPage/csqjxiao/csqjxiao_files/papers/INFOCOM17.pdf).
@@ -31,4 +36,12 @@ A direct comparison with the [HyperLogLog++ implementation used by InfluxDB](htt
 
 
 ## Note
-A big thank you to Prof. Shigang Chen and his team at the University of Florida who are actively conducting research around "Big Network Data".
+A big thank you to Prof. Shigang Chen and his team at the University of Florida who are actively conducting research around "Big Network 
+
+---
+
+**An [Axiom](https://axiom.co) production.**
+
+Do you enjoy solving problems like these? If so, then get in touch with us at [careers@axiom.co](mailto:careers@axiom.co)!
+
+<img align="right" width="48" height="48" src="https://axiom.co/static/xiom-sunset.png">
