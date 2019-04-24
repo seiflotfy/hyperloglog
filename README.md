@@ -1,6 +1,6 @@
-![Hyperloglog Logo](hyperloglog.png)
+![Hyperloglog Logo](hyperloglog.jpg)
 
----
+  ---
 
 [![GoDoc](https://godoc.org/github.com/axiomhq/hyperloglog?status.svg)](https://godoc.org/github.com/axiomhq/hyperloglog) [![Go Report Card](https://goreportcard.com/badge/github.com/axiomhq/hyperloglog)](https://goreportcard.com/report/github.com/axiomhq/hyperloglog) ![cover.run go](https://cover.run/go/github.com/axiomhq/hyperloglog.svg)
 
